@@ -1,6 +1,6 @@
 ## Hi, I'm Reigne Decolongon 👋
 
-💻 DevSecOs Engineer
+💻 DevSecOps Engineer
 
 🚀 Interested in AI, Research, and Cloud Solutions
 
@@ -12,6 +12,7 @@
 
 ## 🔗 Links
 <a href="https://www.linkedin.com/in/reignedecolongon/"><img src="https://www.learninglight.com/wp-content/uploads/2017/06/linkedin.png" alt="linkedin" width="200">
+
 
 <!--
 **ReigneDecolongon/ReigneDecolongon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
